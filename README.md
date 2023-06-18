@@ -34,3 +34,5 @@ Probably can't access most of them though
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![screenshot](./xqc.PNG)
