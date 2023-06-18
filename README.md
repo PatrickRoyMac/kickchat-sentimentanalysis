@@ -5,8 +5,11 @@ This is a quick test on queriying the Kick.com APIs to get information on users 
 ## Installation
 
 Chromedriver for Chromium - https://chromedriver.chromium.org/downloads
+
 Python3 is required
+
 Clone the repository 
+
 pip install the requirements
 
 ```bash
